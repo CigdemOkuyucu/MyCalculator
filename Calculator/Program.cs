@@ -7,6 +7,11 @@ public static class Calculator
     {
         return 2*(a+b);
     }
+
+    public static int Subtract(int a,int b)
+    {
+        return 2*(a-b);
+    }
 }
 public class Program
 {
